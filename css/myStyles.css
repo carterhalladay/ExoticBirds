@@ -1,0 +1,46 @@
+h1{
+    color: green;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    border: 5px solid aqua;
+    margin: 50px;
+    padding: 50px;
+}
+
+
+#top{
+    text-decoration: underline;
+}
+
+body{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.India {
+  
+  color: black;
+  padding: 20px;
+}
+
+.DR {
+  
+  padding: 20px;
+  margin: 10px;
+}
+
+.ELsal {
+  
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
